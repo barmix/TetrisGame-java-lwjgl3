@@ -6,6 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lwjgl3"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Michael/eclipse-workspace/Tetris-LWJGL3/lib/lwjgl-opengl-natives-windows.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
